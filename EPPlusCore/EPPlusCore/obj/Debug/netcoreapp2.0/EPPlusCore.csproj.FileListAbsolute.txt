@@ -1,0 +1,11 @@
+C:\Users\EL MAHDI AR\source\repos\EPPlusCore\EPPlusCore\bin\Debug\netcoreapp2.0\EPPlusCore.deps.json
+C:\Users\EL MAHDI AR\source\repos\EPPlusCore\EPPlusCore\bin\Debug\netcoreapp2.0\EPPlusCore.runtimeconfig.json
+C:\Users\EL MAHDI AR\source\repos\EPPlusCore\EPPlusCore\bin\Debug\netcoreapp2.0\EPPlusCore.runtimeconfig.dev.json
+C:\Users\EL MAHDI AR\source\repos\EPPlusCore\EPPlusCore\bin\Debug\netcoreapp2.0\EPPlusCore.dll
+C:\Users\EL MAHDI AR\source\repos\EPPlusCore\EPPlusCore\obj\Debug\netcoreapp2.0\EPPlusCore.csprojResolveAssemblyReference.cache
+C:\Users\EL MAHDI AR\source\repos\EPPlusCore\EPPlusCore\obj\Debug\netcoreapp2.0\EPPlusCore.csproj.CoreCompileInputs.cache
+C:\Users\EL MAHDI AR\source\repos\EPPlusCore\EPPlusCore\obj\Debug\netcoreapp2.0\EPPlusCore.AssemblyInfoInputs.cache
+C:\Users\EL MAHDI AR\source\repos\EPPlusCore\EPPlusCore\obj\Debug\netcoreapp2.0\EPPlusCore.AssemblyInfo.cs
+C:\Users\EL MAHDI AR\source\repos\EPPlusCore\EPPlusCore\bin\Debug\netcoreapp2.0\EPPlusCore.pdb
+C:\Users\EL MAHDI AR\source\repos\EPPlusCore\EPPlusCore\obj\Debug\netcoreapp2.0\EPPlusCore.dll
+C:\Users\EL MAHDI AR\source\repos\EPPlusCore\EPPlusCore\obj\Debug\netcoreapp2.0\EPPlusCore.pdb
